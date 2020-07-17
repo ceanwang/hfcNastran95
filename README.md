@@ -3,7 +3,7 @@ Pre/Post processor for Nastran95 within FreeCAD.
 
 [Nastran95](http://github.com/nasa/NASTRAN-95) is the open source 1995 version of the NASA Structural Analysis program.
 
-[FreeCAD](https://freecadweb.org) is an open source CAD/CAM solution.
+[FreeCAD](https://freecadweb.org) (v0.19.x) is an open source CAD/CAM solution.
 
 ## Features 
 Currently this workbench contains the following tools:
@@ -11,11 +11,6 @@ Currently this workbench contains the following tools:
 Import an Inp case file and draw mesh. 
 
 Import F06 result file, draw mesh and displacement.
-
-## Prerequisites
-
-* Nastran95
-* FreeCAD v0.19.x
 
 ## Installation
 This workbench is developed on Windows 10.  
