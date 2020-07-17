@@ -1,7 +1,7 @@
 ## hfcNastran95
 Pre/Post processor for Nastran95 within FreeCAD.
 
-[Nastran95](http://github.com/nasa/NASTRAN-95) is the 1995 version of the NASA Structural Analysis program.
+[Nastran95](http://github.com/nasa/NASTRAN-95) is the open source 1995 version of the NASA Structural Analysis program.
 
 [FreeCAD](https://freecadweb.org) is an open source CAD/CAM solution.
 
