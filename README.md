@@ -1,5 +1,5 @@
 ## hfcNastran95
-Pre/Post processor for Nastran95 within FreeCAD.
+hfcNastran95 is a FreeCAD workbench for Pre/Post processoring for Nastran95.
 
 [Nastran95](http://github.com/nasa/NASTRAN-95) is the open source 1995 version of the NASA Structural Analysis program.
 
