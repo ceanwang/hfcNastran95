@@ -2,7 +2,7 @@
 Pre/Post processor for Nastran95 within FreeCAD
 
 ## Background
-[Nastran95](http://github.com/nasa/NASTRAN-95) is the NASA Structural Analysis System, a finite element analysis program (FEA) completed in the early 1970's.
+[Nastran95](http://github.com/nasa/NASTRAN-95) is the 1995 version of the NASA Structural Analysis program.
 
 [FreeCAD](https://freecadweb.org) is an open source CAD/CAM solution.
 
