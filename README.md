@@ -1,7 +1,6 @@
 ## hfcNastran95
-Pre/Post processor for Nastran95 within FreeCAD
+Pre/Post processor for Nastran95 within FreeCAD.
 
-## Background
 [Nastran95](http://github.com/nasa/NASTRAN-95) is the 1995 version of the NASA Structural Analysis program.
 
 [FreeCAD](https://freecadweb.org) is an open source CAD/CAM solution.
@@ -9,16 +8,9 @@ Pre/Post processor for Nastran95 within FreeCAD
 ## Features 
 Currently this workbench contains the following tools:
 
-###  Reading Inp files 
-The ability to read in an Inp case file and draw mesh. 
+Import an Inp case file and draw mesh. 
 
-### Run Nastran95
-Not implimented yet.
-Execture the `Nastran` binary which reads in the Inp file and writes the result into a F06 file.
-
-### Show Results
-Not implimented yet.
-Read in F06 result file and draw the mesh and displacement.
+Import F06 result file, draw mesh and displacement.
 
 ## Prerequisites
 
