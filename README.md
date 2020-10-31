@@ -1,4 +1,7 @@
 ## hfcNastran95
+
+![Frame3dd-screenshot](https://github.com/ceanwang/hfcNastran95/blob/master/d05.gif)
+
 hfcNastran95 is a FreeCAD workbench for Pre/Post processoring for Nastran95.
 
 [Nastran95](http://github.com/nasa/NASTRAN-95) is the open source 1995 version of the NASA Structural Analysis program.
