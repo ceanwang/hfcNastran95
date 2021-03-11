@@ -24,4 +24,4 @@ Note: Nastran excutable file must be in Windows's PATH. Under Window 10, it must
 PATH.
 
 ## License
-GPL v3.0 (see [LICENSE](LICENCE) file)
+GPL v3.0 (see [LICENSE](LICENCE) file) + Not for commercial use.
