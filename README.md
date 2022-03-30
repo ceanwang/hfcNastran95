@@ -13,7 +13,7 @@ Currently this workbench contains the following tools:
 
 Import an Inp case file and draw mesh. 
 
-Import F06 result file, draw mesh and displacement.
+Open F06 result file with Notepad.exe (Windows only.)
 
 ## Installation
 This workbench is developed on Windows 10.  
