@@ -26,7 +26,7 @@ class hfcNastran95OpenInp:
 
 	def IsActive(self):
 
-		#if FreeCAD.ActiveDocument == None:
+		#if FreeCAD.ActiveDocument is None:
 		#	return False
 		#else:
 		#	return True
