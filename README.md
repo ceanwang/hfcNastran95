@@ -20,7 +20,7 @@ This workbench is developed on Windows 10.
 
 Download as hfcNastran95.zip and unzip it under FreeCad's `Mod/` folder. The result is a new 'Mod/hfcNastran95' folder with all the codes.
 
-Note: Nastran excutable file must be in Windows's PATH. Under Window 10, it must be named as `Nastran95.exe`. If you use a python script to run that exe file, your Python and that python script also need to be in window 10's
+Note: Nastran executable file must be in Windows's PATH. Under Window 10, it must be named as `Nastran95.exe`. If you use a python script to run that exe file, your Python and that python script also need to be in window 10's
 PATH.
 
 ## License
